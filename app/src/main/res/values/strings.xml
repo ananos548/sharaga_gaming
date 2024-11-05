@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="app_logo">Calculator</string>
+    <string name="btn_input">Сложить</string>
+    <string name="btn_input1">Вычестить</string>
+    <string name="btn_input2">Умножить</string>
+    <string name="btn_input3">Поделить</string>
+    <string name="hint_input1">First number</string>
+    <string name="hint_input2">Second number</string>
+    <string name="hint_willResult">Result</string>
+</resources>
